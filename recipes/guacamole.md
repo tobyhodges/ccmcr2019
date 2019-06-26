@@ -5,4 +5,5 @@
 - avocado
 - red onion
 - tomatoes
+- lime juice
 - salt
